@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlackPirate on Clarity</title>
+    <link>https://example.com/tags/blackpirate/</link>
+    <description>Recent content in BlackPirate on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2018, BlackPirate.</copyright>
+    <lastBuildDate>Wed, 30 Mar 2022 17:35:16 +0530</lastBuildDate><atom:link href="https://example.com/tags/blackpirate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://example.com/post/test-post/</link>
+      <pubDate>Wed, 30 Mar 2022 17:35:16 +0530</pubDate>
+      
+      <guid>https://example.com/post/test-post/</guid>
+      <description>
+        
+          
+            Insert Lead paragraph here.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
